@@ -10,11 +10,6 @@
 
 using namespace std;
 
-//if you want to define other functions, you can!
-//you should declare the function signature here,
-//then define the function later...
-
-
 //Returns a string form of a Roman Numeral.
 //(n must be between 1 and 3999)
 string roman_numeral(int n);
