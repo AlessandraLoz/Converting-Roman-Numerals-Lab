@@ -45,7 +45,7 @@ This software was made by Alessandra Lozano using <a href="https://visualstudio.
 
 ## You may also like...
 
-- [User-Input-Validation](https://github.com/AlessandraLoz/User-Input-Validation) - Program using integer division and boolean logic in order to account for prime numbers
+- [User-Input-Validation](https://github.com/AlessandraLoz/User-Input-Validation) -  Using boolean and algebraic logic in order to properly track multiple variables at once
 
 ## License
 
