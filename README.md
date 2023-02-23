@@ -36,7 +36,7 @@ arguments are necessary.
 
 ## Download
 
-You can [download](https://github.com/AlessandraLoz/Cash-Register-Lab) the latest downloadable versions of Cash Register for Windows, macOS and Linux.
+You can [download](https://github.com/AlessandraLoz/Converting-Roman-Numerals-Lab) the latest downloadable versions of Converting Roman Numerals Lab for Windows, macOS and Linux.
 
 ## Credits
 
